@@ -1,0 +1,99 @@
+# ===========================
+# Dependencies
+# ===========================
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# ===========================
+# Next.js
+# ===========================
+.next/
+out/
+build/
+dist/
+
+# ===========================
+# Environment Variables
+# NEVER commit these — they contain secret keys
+# ===========================
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# ===========================
+# Supabase
+# ===========================
+.supabase/
+
+# ===========================
+# Vercel
+# ===========================
+.vercel/
+
+# ===========================
+# TypeScript
+# ===========================
+*.tsbuildinfo
+next-env.d.ts
+
+# ===========================
+# Testing
+# ===========================
+coverage/
+.vitest-cache/
+
+# ===========================
+# Logs
+# ===========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===========================
+# OS Files
+# ===========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===========================
+# Editor & IDE
+# ===========================
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ===========================
+# Misc
+# ===========================
+*.pem
+.cache/
+tmp/
+temp/

@@ -1,0 +1,17 @@
+Project Meeting Notes
+
+Date: June 7, 2026
+Attendees: Akash, Team
+
+Agenda items discussed today:
+
+We reviewed the Q2 roadmap and agreed on priorities.
+The design team will deliver mockups by end of week.
+Engineering will begin sprint planning on Monday.
+
+Action items:
+Send updated timeline to stakeholders
+Schedule follow-up review for next Friday
+Update project board with new tasks
+
+Next meeting scheduled for June 14.
