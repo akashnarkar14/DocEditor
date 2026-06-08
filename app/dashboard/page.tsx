@@ -52,7 +52,7 @@ export default async function DashboardPage() {
 
   const shared = (sharedResult.data ?? [])
     .filter(s => s.document)
-    .map(s => ({ ...(s.document as Record<string, unknown>), permission: s.permission }))
+    .map(s => ({ ...(s.document as unknown as Record<string, unknown>), permission: s.permission }))
 
   return (
     <DashboardClient
