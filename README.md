@@ -1,4 +1,4 @@
-https://vercel.com/akashnarkar14s-projects/doc-editor/6DJv2DPgkKjVxyaqsWrnKT8tvYYN
+https://doc-editor-bds99o2vo-akashnarkar14s-projects.vercel.app/
 # Ajaia Docs
 
 A lightweight collaborative document editor — like Google Docs, but simple and self-hostable.
